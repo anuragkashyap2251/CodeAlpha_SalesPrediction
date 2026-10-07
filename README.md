@@ -42,5 +42,5 @@ The model's predictive performance is visualized by comparing actual sales with 
 ---
 
 ## 👨‍💻 Author
-**Anshul Kumar**  
+**Anurag Kashyap**  
 *CodeAlpha Data Science Intern*
